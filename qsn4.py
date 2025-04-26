@@ -1,5 +1,5 @@
 #4. Reverse a string (without using [::-1] or built-in methods).
-user_string = input("Enter a string: ")
+user_string = str(input("Enter a string: "))
 reversed_string = ""
 
 #for loop to add string letters ahead of reversed string
